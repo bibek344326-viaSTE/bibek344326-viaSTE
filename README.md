@@ -97,11 +97,12 @@ Agile (Scrum, Kanban), Unified Process
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bibek344326-viaSTE&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibek344326-viaSTE&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
